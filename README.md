@@ -35,7 +35,7 @@ Using Python and data visualization techniques, this analysis provides recommend
 ## 🧰 Tools & Libraries Used
 
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
-- **Jupyter Notebook / VS Code**  
+- **Jupyter Notebook**  
 - **Excel** for final report summaries  
 - **CareerFoundry Data Sets** (not uploaded)
 
