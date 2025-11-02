@@ -45,7 +45,7 @@ Using Python and data visualization techniques, this analysis provides recommend
 
 The `/02 Data/` folder is **not included** in accordance with CareerFoundry guidelines and GitHub’s file size limitations.
 
-To reproduce this project, use the same Instacart datasets provided in the CareerFoundry course.
+The original and prepared datasets used for this project are part of the CareerFoundry Data Analytics Program materials and are not included here.
 
 ---
 
@@ -63,9 +63,3 @@ To reproduce this project, use the same Instacart datasets provided in the Caree
 **Samantha Lisik**  
 CareerFoundry Data Analytics Program  
 📧 [samantha.lisik@gmail.com]
-
-
-This folder is intentionally left empty to comply with CareerFoundry guidelines and GitHub’s file size limitations.
-
-The original and prepared datasets used for this project are part of the CareerFoundry Data Analytics Program materials and are not included here.
-
