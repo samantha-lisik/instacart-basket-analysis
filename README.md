@@ -1,18 +1,18 @@
-# 🛒 Instacart Basket Analysis
+# Instacart Basket Analysis
 
 Data analysis project using Python to explore customer purchasing behavior for Instacart.  
 Completed as part of the **CareerFoundry Data Analytics Program**.
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 The goal of this project is to analyze data from an online grocery retailer, **Instacart**, to uncover insights about customer purchasing behavior.  
 Using Python and data visualization techniques, this analysis provides recommendations to improve marketing strategies and customer segmentation.
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 | Folder | Description |
 |---------|-------------|
@@ -23,7 +23,7 @@ Using Python and data visualization techniques, this analysis provides recommend
 
 ---
 
-## 🧮 Key Analytical Questions
+## Key Analytical Questions
 
 1. What are the busiest days and hours of the week for Instacart orders?  
 2. When do customers spend the most money?  
@@ -32,7 +32,7 @@ Using Python and data visualization techniques, this analysis provides recommend
 
 ---
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
 - **Jupyter Notebook**  
@@ -41,7 +41,7 @@ Using Python and data visualization techniques, this analysis provides recommend
 
 ---
 
-## 🚫 Data Notice
+## Data Notice
 
 The `/02 Data/` folder is **not included** in accordance with CareerFoundry guidelines and GitHub’s file size limitations.
 
@@ -49,7 +49,7 @@ The original and prepared datasets used for this project are part of the CareerF
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Data cleaning and transformation using Python (Pandas, NumPy)
 - Exploratory data analysis and visualization
