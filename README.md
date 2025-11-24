@@ -57,9 +57,3 @@ The original and prepared datasets used for this project are part of the CareerF
 - Communicating findings effectively through reports and presentations
 
 ---
-
-## 👩‍💻 Author
-
-**Samantha Lisik**  
-CareerFoundry Data Analytics Program  
-📧 [samantha.lisik@gmail.com]
